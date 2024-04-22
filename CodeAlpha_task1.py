@@ -5,7 +5,6 @@
 
 
 n = int(input("Enter values you want"))
-#First two values of fibonacci series
 n1 = 0
 n2 = 1
 next_num = n2 
